@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning ... JavaScript, Java, ExpressJS, React, MongoDB, MySQL at Code Differently.
+🔭 I’m currently working on ... a C# project to help me to understand the syntax better.
 
 <!--
 **kayanr/kayanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
