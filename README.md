@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... JavaScript, Java, ExpressJS, React, MongoDB, MySQL at Code Differently.
+- 🌱 I’m currently learning ... JavaScript, Java, ExpressJS, React, MongoDB, MySQL.
 - 🔭 I’m currently working on ... C# and Java projects.
 
 <!--
