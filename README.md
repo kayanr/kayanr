@@ -1,6 +1,26 @@
 ## Hi there 👋, I'm Kayan!
-- 🌱 I’m currently learning ... JavaScript, Java, ExpressJS, React, MongoDB, MySQL.
-- 🔭 I’m currently working on ... C# and Java projects.
+
+Full-stack developer focused on building practical applications using Java, C#, and modern web technologies.
+
+- 🌱 Currently learning: JavaScript, Java, ExpressJS, React, MongoDB, MySQL
+- 🔭 Currently working on: C# and Java projects
+
+---
+
+## 📚 Learning & Practice
+
+Many of my learning exercises, coursework, and experimental projects are maintained in a separate organization to keep this profile focused on portfolio work.
+
+You can find those repositories here:
+
+➡ https://github.com/kayanr-learning
+
+This includes:
+- Data structures and algorithms practice
+- Course exercises
+- Small technology experiments
+- Sandbox projects used while learning new frameworks
+   
 ## 💻 Tech Stack
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
